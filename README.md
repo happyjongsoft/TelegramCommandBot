@@ -1,5 +1,5 @@
 # Telegram bot to execute commands on linux
-This is a simple c program for linux manage linux server through telegram.
+This is a C program for linux manage linux server through telegram.
 
 [![Watch the video](https://github.com/happyjongsoft/TelegramCommandBot/blob/master/Screenshot_TelegramCommandBot.png?raw=true)](https://www.youtube.com/watch?v=6EzYIuCphOc)
 ## Features
